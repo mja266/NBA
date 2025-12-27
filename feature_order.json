@@ -1,0 +1,9 @@
+[
+  "player_id",
+  "team_id",
+  "period",
+  "time_remaining",
+  "shot_id",
+  "x",
+  "y"
+]
